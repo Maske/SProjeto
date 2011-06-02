@@ -1,0 +1,3 @@
+class novo(){
+    int idade;
+}
